@@ -1,9 +1,3 @@
-﻿/*Projektni zadatak iz Programiranja
-Iva Matetiæ, politehnika
-projektni zadatak br.4,zadatak 3
-*/
-
-
 #include <iostream>
 #include <string>
 using namespace std;
